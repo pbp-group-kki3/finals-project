@@ -6,7 +6,7 @@ Mobile companion app for the Spoonfed Django web application (`pbp-group-kki3/mi
 ## Group Members
 | Name | NPM | GitHub |
 | :--- | :--- | :--- |
-| Aryan Alexander Rinaldi | <NPM> | <handle> |
+| Aryan Alexander Rinaldi | 2506636895 | aryanalexander-cmyk |
 | <Member 2> | <NPM> | <handle> |
 
 ## Module Scoping & Ownership
